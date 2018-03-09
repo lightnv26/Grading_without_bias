@@ -1,0 +1,14 @@
+                                        Team:-   DEFENDERS
+
+PROJECT DESCRIPTION :-
+This python interface gives the result of students without biasing and uses IBM Watson Natural Language Understanding api to find
+keywords from the given answer sheets of students.
+
+NOTE:: If want more details about marks per question see your command prompt
+
+REQUIREMENTS TO RUN:-
+1. Make you sure you have an internet connection while running this application.
+NOTE:: Install watson_developer_cloud package using "pip install --upgrade watson-developer-cloud "
+3. Run this application in your command prompt using "python final.py"
+NOTE:: Don't forget change the directory to Hackathon folder since final.py is inside this folder.
+       you can do so using "cd Hackathon"
